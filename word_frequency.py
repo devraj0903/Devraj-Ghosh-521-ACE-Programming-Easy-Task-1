@@ -1,3 +1,5 @@
+#word frequency counter
+
 paragraph = input("Enter a paragraph:\n").lower()
 
 #to keep only alphabets and spaces
